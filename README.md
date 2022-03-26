@@ -1,4 +1,4 @@
-Netlify: cu-bit-registration-form.netlify.app
+Netlify: https://cu-bit-registration-form.netlify.app
 
 1.The task is to create a registration form that will contain 4 inputs(email,password,confirm password and mobile number) and one button(Login)
 2.The form must be responsive 3.
